@@ -36,16 +36,16 @@ public class Interactable : Script
     // Below are things that are not supported yet (1.12)
     //---------------------------------------------------
 
-    /// 1.12 - If you uncomment, it will break at runtime
-    /// If you bind something on it inside the Visual editor
+    // 1.12 - If you uncomment, it will break at runtime
+    // If you bind something on it inside the Visual editor
     //[Unmanaged]   // 1.12 : use [Unmanaged] to see in visual editor
     //public event Action OnSomeDelegate;
 
-    /// 1.12 - If you uncomment and override it inside a 
-    /// visual script, it should fail silently (will
-    /// do nothing). The engine part that generates 
-    /// dynamic code bindings isn't working yet (at less
-    /// for this use case)
+    // 1.12 - If you uncomment and override it inside a 
+    // visual script, it should fail silently (will
+    // do nothing). The engine part that generates 
+    // dynamic code bindings isn't working yet (at less
+    // for this use case)
     //[Unmanaged]
     //public virtual void SomeOverridableMethod()
     //{
