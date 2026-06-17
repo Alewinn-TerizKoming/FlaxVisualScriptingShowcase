@@ -28,7 +28,7 @@ From repository :
 -- Press Play
 
 OR with flaxpackage :
-- Use the [InteractionManager flaxpackage](/Launcher/InteractionManager.flaxpackage) template file inside the launcher (see [Howto : create and add a new template to the Flax launcher.](/Launcher/) )
+- Use the [Interaction Manager flaxpackage](https://github.com/Alewinn-TerizKoming/FlaxVisualScriptingShowcase/blob/main/Launcher/InteractionManager.flaxpackage) template file inside the launcher (see [Howto : create and add a new template to the Flax launcher.](/Launcher/) )
 
 Setup :
 <img src="Screenshots/Setup.png">
@@ -42,3 +42,12 @@ This project is intended as a community sample for Flax Engine.
 It contains original work as well as content derived from Flax Engine templates and examples.
 Flax Engine and any content originating from Flax remain subject to their respective licenses.
 Refer to the Flax Engine license for additional information.
+
+---
+
+[← Repository Home](../)
+
+| Resources |
+|-----------|
+| [Download Flax Package](https://raw.githubusercontent.com/Alewinn-TerizKoming/FlaxVisualScriptingShowcase/main/Packages/FlaxVisualScriptingShowcase.flaxpackage) |
+| [Packaging Guide](CreateFlaxPackage.md) |

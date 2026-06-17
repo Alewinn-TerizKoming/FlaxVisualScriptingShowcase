@@ -42,4 +42,11 @@ One point that initially confused me is that the "Compile Scripts" action is loc
 
 Despite these limitations, I was able to build the entire gameplay layer of this showcase using a combination of C# and Visual Scripting, which demonstrates that the current system is already practical for small and medium gameplay features.
 
-- [<= root](../) 
+---
+
+[← Repository Home](../)
+
+| Resources |
+|-----------|
+| [Download Flax Package](https://raw.githubusercontent.com/Alewinn-TerizKoming/FlaxVisualScriptingShowcase/main/Packages/FlaxVisualScriptingShowcase.flaxpackage) |
+| [Packaging Guide](CreateFlaxPackage.md) |
