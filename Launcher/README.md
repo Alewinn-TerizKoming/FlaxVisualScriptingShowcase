@@ -11,18 +11,15 @@ Howto : add a new template to the Flax launcher.
 
 meta.xml :
 
-```<Meta>
+```
+<Meta>
 	<Name>Interaction manager</Name>
 	<Type>ProjectTemplate</Type>
 	<Author>Alewinn</Author>
 	<Description>Simple interaction system in first person view camera controller using C#, Visual Scripting, UI and outline shader.</Description>
-</Meta>```
+</Meta>
+```
 
----
+A ".flaxpackage" file is a ".zip" file renamed fithe the flaxpackage sufix.
 
-[← Repository Home](../)
-
-| Resources |
-|-----------|
-| [Download Flax Package](https://raw.githubusercontent.com/Alewinn-TerizKoming/FlaxVisualScriptingShowcase/main/Packages/FlaxVisualScriptingShowcase.flaxpackage) |
-| [Packaging Guide](CreateFlaxPackage.md) |
+Home => https://github.com/Alewinn-TerizKoming/FlaxVisualScriptingShowcase/tree/main

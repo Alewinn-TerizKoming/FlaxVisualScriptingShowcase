@@ -4,6 +4,7 @@ Simple interaction system with first person view controller using C#, Visual Scr
 
 This project is not a complete framework but a minimal demonstration intended to show how to combine C#, Visual Scripting, UI and custom rendering in Flax.
 
+---
 Demonstrated Features :
 - Player Interaction
 - Interactive System
@@ -16,19 +17,20 @@ Demonstrated Features :
 <img src="Screenshots/Preview.png">
 <img src="Screenshots/Scene.png">
 <img src="Screenshots/Nodes.png">
-
-- Installation
+---
+Installation
 Mandatory: 
--- Install Flax 1.12 (see https://flaxengine.com/download/ for download)
+
+- Install Flax 1.12 (see https://flaxengine.com/download/ for download)
 
 From repository :
--- Download the current repository
--- Open "Flax Visual ScriptingShowcase/InteractionManager.flaxproj"
--- Load the main scene
--- Press Play
+- Download the current repository
+- Open "Flax Visual ScriptingShowcase/InteractionManager.flaxproj"
+- Load the main scene
+- Press Play
 
 OR with flaxpackage :
-- Use the [Interaction Manager flaxpackage](https://github.com/Alewinn-TerizKoming/FlaxVisualScriptingShowcase/blob/main/Launcher/InteractionManager.flaxpackage) template file inside the launcher (see [Howto : create and add a new template to the Flax launcher.](/Launcher/) )
+- Use the Interaction Manager flaxpackage (Download at : https://github.com/Alewinn-TerizKoming/FlaxVisualScriptingShowcase/blob/main/Launcher/InteractionManager.flaxpackage ) template file inside the launcher (see [Howto : create and add a new template to the Flax launcher.](/Launcher/) )
 
 Setup :
 <img src="Screenshots/Setup.png">
@@ -42,12 +44,3 @@ This project is intended as a community sample for Flax Engine.
 It contains original work as well as content derived from Flax Engine templates and examples.
 Flax Engine and any content originating from Flax remain subject to their respective licenses.
 Refer to the Flax Engine license for additional information.
-
----
-
-[← Repository Home](../)
-
-| Resources |
-|-----------|
-| [Download Flax Package](https://raw.githubusercontent.com/Alewinn-TerizKoming/FlaxVisualScriptingShowcase/main/Packages/FlaxVisualScriptingShowcase.flaxpackage) |
-| [Packaging Guide](CreateFlaxPackage.md) |
