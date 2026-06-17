@@ -44,9 +44,4 @@ Despite these limitations, I was able to build the entire gameplay layer of this
 
 ---
 
-[← Repository Home](../)
-
-| Resources |
-|-----------|
-| [Download Flax Package](https://raw.githubusercontent.com/Alewinn-TerizKoming/FlaxVisualScriptingShowcase/main/Packages/FlaxVisualScriptingShowcase.flaxpackage) |
-| [Packaging Guide](CreateFlaxPackage.md) |
+Home => https://github.com/Alewinn-TerizKoming/FlaxVisualScriptingShowcase/tree/main
