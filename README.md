@@ -2,4 +2,4 @@
 
 Simple interaction system for Flax Engine using C#, Visual Scripting, UI and outline shader.
 
-<img src="Preview.png">
+<img src="Screenshots/Preview.png">
