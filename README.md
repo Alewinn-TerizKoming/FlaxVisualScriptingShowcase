@@ -30,7 +30,7 @@ From repository :
 - Press Play
 
 OR with flaxpackage :
-- Use the Interaction Manager flaxpackage (Download at : https://github.com/Alewinn-TerizKoming/FlaxVisualScriptingShowcase/blob/main/Launcher/InteractionManager.flaxpackage ) template file inside the launcher (see [Howto : create and add a new template to the Flax launcher.](/Launcher/) )
+- Use the Interaction Manager flaxpackage template file inside the launcher (see [Howto : create and add a new template to the Flax launcher.](/Launcher/) )
 
 Setup :
 <img src="Screenshots/Setup.png">
@@ -39,6 +39,8 @@ Other links in this repository ;
 
 - [Howto : create and add a new template to the Flax launcher.](/Launcher/)
 - [Some Visual Nodes experience feedbacks](/Docs/)
+
+---
 
 This project is intended as a community sample for Flax Engine.
 It contains original work as well as content derived from Flax Engine templates and examples.
