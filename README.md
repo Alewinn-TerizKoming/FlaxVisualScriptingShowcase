@@ -7,5 +7,5 @@ Simple interaction system for Flax Engine using C#, Visual Scripting, UI and out
 <img src="Screenshots/Nodes.png">
 <img src="Screenshots/Setup.png">
 
-[Howto : add a new template to the Flax launcher.](/launcher/README)
-[Some Visual Nodes experience feedbacks](/Docs/Feedbacks)
+- [Howto : add a new template to the Flax launcher.](/Launcher/) 
+- [Some Visual Nodes experience feedbacks](/Docs/)

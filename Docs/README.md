@@ -1,4 +1,6 @@
-All theses points are already listed inside the Flax Roadmap (https://trello.com/c/quUfCHWt/315-visual-scripting-roadmap )
+All theses points are already listed inside the Flax Roadmap (https://trello.com/c/quUfCHWt/315-visual-scripting-roadmap ).
+I am only listing the main, most annoying points here, while keeping in mind that the system is already capable of many things.
+
 
 1- Be very precautionous when duplicating a visual script, especially if it contains functions or parameters ; I don't know if it's a search box design problem (in the order the information is presented regarding the context) or a bug (didn't dig in that yet) but I've encountered cases in which functions/parameters were referencig the original visual script, wich 100% generates exception runtime.
 
@@ -8,4 +10,4 @@ All theses points are already listed inside the Flax Roadmap (https://trello.com
 
 4- Not possible to mutualize nodes groups methods inside a common visual functions asset.
 
-5- For the rest, visual scripts have more or less the same limitations than conventional visual scripts (including Unreal's blueprint) ; you'll have to think about recompiling your scripts to be able to use your new functions/variables (normal workflow), in order to have them show inside the editor. Again this point is a "normal" workflow for a lot of decent visual script editors in the market.
+...For the rest, Flax visual scripts have more or less the same limitations than conventional visual scripts (including Unreal's blueprint) ; you'll have to think about recompiling your scripts to be able to use your new functions/variables (normal workflow), in order to have them show inside the editor. Again this point is a "normal" workflow for a lot of decent visual script editors in the market.
