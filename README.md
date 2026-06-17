@@ -7,7 +7,7 @@ This project is not a complete framework but a minimal demonstration intended to
 ---
 Demonstrated Features :
 - Player Interaction
-- Interactive System
+- Interaction System
 - Button-Controlled Door
 - Visual Scripting
 - Screen UI
@@ -25,7 +25,7 @@ Mandatory:
 
 From repository :
 - Download the current repository
-- Open "Flax Visual ScriptingShowcase/InteractionManager.flaxproj"
+- Open "FlaxVisualScriptingShowcase/InteractionManager.flaxproj"
 - Load the main scene
 - Press Play
 
