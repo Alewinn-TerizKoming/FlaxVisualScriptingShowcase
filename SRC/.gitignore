@@ -5,3 +5,7 @@
 /Source/obj
 /.vscode
 /.vs
+/Source/Properties
+*.sln
+*.user
+*.csproj

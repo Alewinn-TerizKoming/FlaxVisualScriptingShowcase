@@ -8,4 +8,4 @@ All theses points are already listed inside the Flax Roadmap (https://trello.com
 
 4- Not possible to mutualize nodes groups methods inside a common visual functions asset.
 
-4- For the rest, visual scripts have more or less the same limitations than conventional visual scripts (including Unreal's blueprint) ; you'll have to think about recompiling your scripts to be able to use your new functions/variables (normal workflow), in order to have them show inside the editor. Again this point is a "normal" workflow for a lot of decent visual script editors in the market.
+5- For the rest, visual scripts have more or less the same limitations than conventional visual scripts (including Unreal's blueprint) ; you'll have to think about recompiling your scripts to be able to use your new functions/variables (normal workflow), in order to have them show inside the editor. Again this point is a "normal" workflow for a lot of decent visual script editors in the market.
